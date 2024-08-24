@@ -1,0 +1,25 @@
+[debug] [2024-08-24T03:16:27.563Z] ----------------------------------------------------------------------
+[debug] [2024-08-24T03:16:27.565Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Elgin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-08-24T03:16:27.565Z] CLI Version:   13.15.4
+[debug] [2024-08-24T03:16:27.565Z] Platform:      win32
+[debug] [2024-08-24T03:16:27.565Z] Node Version:  v22.2.0
+[debug] [2024-08-24T03:16:27.565Z] Time:          Fri Aug 23 2024 22:16:27 GMT-0500 (Central Daylight Time)
+[debug] [2024-08-24T03:16:27.565Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-08-24T03:16:27.573Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-08-24T03:16:27.573Z] > authorizing via signed-in user (elginsharper87@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\projects\managementpage\my-next-app
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
