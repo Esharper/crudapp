@@ -1,6 +1,6 @@
 "use client"
 import React, { useEffect } from "react";
-import { app, analytics } from "./lib/firebase";
+import { app, analytics } from "./lib/firebase.config";
 import Link from "next/link";
 
 const Home = () => {
